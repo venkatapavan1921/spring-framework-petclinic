@@ -18,7 +18,7 @@ variables:
   environmentName: 'petclinicjava'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  name: 'MyAgentPool'
 
 stages:
 - stage: Build
